@@ -1,0 +1,9 @@
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/service/ProductService.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/dao/ConnectionFactory.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/dao/ProductDao.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/dao/ProductDaoImpl.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/model/Product.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/Application.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/service/ProductServiceImpl.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/controller/ProductController.java
+/home/ec2-user/environment/lab3task1/backend-create-products/src/main/java/com/aws/devessentials/model/DbCredentials.java
