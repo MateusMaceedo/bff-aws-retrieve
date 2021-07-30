@@ -1,0 +1,9 @@
+com/aws/devessentials/model/Product.class
+com/aws/devessentials/dao/ConnectionFactory.class
+com/aws/devessentials/service/ProductServiceImpl.class
+com/aws/devessentials/controller/ProductController.class
+com/aws/devessentials/Application.class
+com/aws/devessentials/model/DbCredentials.class
+com/aws/devessentials/service/ProductService.class
+com/aws/devessentials/dao/ProductDao.class
+com/aws/devessentials/dao/ProductDaoImpl.class
