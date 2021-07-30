@@ -1,0 +1,7 @@
+com/aws/devessentials/model/Product.class
+com/aws/devessentials/model/BackendServices.class
+com/aws/devessentials/service/ProductServiceImpl.class
+com/aws/devessentials/controller/ProductController.class
+com/aws/devessentials/Application.class
+com/aws/devessentials/service/ProductServiceImpl$1.class
+com/aws/devessentials/service/ProductService.class
